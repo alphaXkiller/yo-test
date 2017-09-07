@@ -44,7 +44,7 @@ const config = {
   },
   development: {
     mongo: {
-      uri: 'mongodb://127.0.0.1:27017/dev-test',
+      uri: 'mongodb://34.208.204.136:27017/dev-test',
       options: {
         debug: true
       }
